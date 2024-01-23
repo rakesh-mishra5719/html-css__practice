@@ -1,0 +1,26 @@
+.green-btn{
+    background-color: green;
+color: white;
+border: none;
+font-size: 18px;
+padding-top: 8px;
+padding-bottom: 8px;
+cursor: pointer;
+
+padding-left: 15px;
+padding-right: 15px;
+margin-left: 20px;
+margin-right: 20px;
+
+transition: padding 0.15s,
+  margin 0.15s;
+    
+}
+.green-btn:hover{
+    padding-left: 35px;
+padding-right: 35px;
+margin-left: 0px;
+margin-right: 0px;
+
+
+}

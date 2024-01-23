@@ -1,0 +1,35 @@
+.bootstrap-start-btn{
+    background-color: rgb(121,82,179);
+    color: white;
+    border: none;
+    height: 35px;
+    width: 105px;
+    font-weight: bold;
+    font-size: 12px;
+    border-radius: 3px;
+    margin-right: 5px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+.bootstrap-start-btn:hover{
+    background-color:  rgb(138, 95, 202);
+}
+.bootstrap-down-btn{
+    color: rgb(108,117,125);
+    width: 105px;
+    height: 35px;
+    font-weight: bold;
+    font-size: 12px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    cursor:pointer;
+    transition: background-color 0.15s;
+}
+.bootstrap-down-btn:hover{
+    background-color: rgb(108,117,125);
+    color: white;
+    border: none;
+    border-radius: 3px;
+   
+}
