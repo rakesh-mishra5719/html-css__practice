@@ -1,0 +1,73 @@
+
+.uber-request{
+    display: inline-block;
+    margin: 5px;
+    padding: 20px 20px 20px 20px;
+}
+.signup-form{
+    display: inline-block;
+    margin: 5px;
+    padding: 20px 20px 20px 20px;
+}
+
+
+.first-name,
+.last-name{
+    display: inline-block;
+    border:1px solid rgba(128, 128, 128, 0.244);
+    width: 97px;
+    color: rgba(0, 0, 0, 0.685);
+    margin-bottom: 8px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 4px;
+}
+
+.email{
+    
+    display: block;
+    border:1px solid rgba(128, 128, 128, 0.244);
+    width: 220px;
+    margin-bottom: 8px;
+    color: rgba(0, 0, 0, 0.685);
+    padding: 10px 10px 10px 10px;
+    border-radius: 4px;
+}
+.signup-btn{
+    background-color: rgb(143, 143, 251);
+    border: none;
+    color: white;
+    padding: 10px 97px 10px 97px;
+    border-radius: 6px;
+
+
+}
+.destination,
+.pickup{
+    display: block;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.059);
+    margin: 5px;
+    font-size: 11px;
+    padding: 10px 80px 10px 10px;
+}
+.request-btn{
+    border: none;
+    margin: 5px;
+    padding: 10px 10px 10px 10px;
+    font-size: 10px;
+    background-color: black;
+    color: white;
+}
+.schedule-btn{
+    border: none;
+    margin: 5px;
+    padding: 10px 10px 10px 10px;
+    font-size: 10px;
+}
+.ride-now{
+    margin: 5px;
+    margin-top: 30px;
+    font-family: Arial;
+    margin-bottom: 20px;
+    font-size: 22px;
+}

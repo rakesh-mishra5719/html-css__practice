@@ -1,0 +1,48 @@
+.google-img{
+    width: 200px;
+    margin-left: 15%;
+    margin: auto;
+    margin-bottom: 15px;
+    display: block;
+}
+.google-search-box{
+    width: 500px;
+    height: 40px;
+    border: none;
+    box-shadow: 1px 1px 5px rgba(128, 128, 128, 0.677);
+    border-radius: 20px;
+    padding-left: 15px;
+    margin: auto;
+    display: block;
+    
+
+}
+.google-search-box::placeholder {
+    
+    font-size: 15px;
+  }
+
+  .google-search{
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 150px;
+  }
+  .feeling{
+    display: inline-block;
+    margin-left: 20px;
+  }
+  .google-search-btn{
+    display: inline-block;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-size: 15px;
+    
+  }
+  
+
+  .feeling-btn{
+    display: inline-block;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-size: 15px;
+  }

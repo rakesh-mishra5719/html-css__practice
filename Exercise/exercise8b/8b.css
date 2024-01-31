@@ -1,0 +1,14 @@
+.para{
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+
+}
+.yes-btn{
+    display: inline-block;
+    vertical-align: middle;
+}
+.no-btn{
+    display: inline-block;
+    vertical-align: middle;
+}
