@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.container{
+
+    
+
+}
+.profile-pic-con{
+    margin-top: 0;
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+    
+}
+.detail-con{
+    margin-top: 0;
+    margin-left: 10px;
+    display: inline-block;
+    width: 150px;
+}
+.follow-con{
+    
+    display: inline-block;
+    padding-bottom: 30px;
+    
+    vertical-align: middle;
+}
+.profile-pic{
+    width: 100%;
+    border-radius: 50%;
+    
+}
+.follow-btn{
+    background-color: rgb(150, 150, 244);
+    vertical-align: middle;
+    color: white;
+    border: none;
+    padding: 5px 10px 5px 10px;
+    border-radius: 4px;
+
+}
+.profile-name{
+    font-size: 14px;
+    font-weight: 500;
+}
+.category-name{
+    color: gray;
+    font-size: 14px;
+}
+.label-tag{
+    color: gray;
+    font-size: 14px;
+}
