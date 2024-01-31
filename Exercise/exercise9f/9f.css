@@ -1,0 +1,46 @@
+.container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 20px;
+    row-gap: 20px;
+
+}
+
+.post-card {
+    box-shadow: 1px 1px 5px gray;
+}
+
+.profile-pic {
+    width: 100%;
+
+    background-color: rgb(102, 134, 215);
+
+}
+
+.username {
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-bottom: 0;
+}
+
+.mutual {
+    margin-left: 5px;
+    font-family: Arial;
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: gray;
+}
+
+.add-btn {
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(101, 101, 253);
+    color: white;
+    border: none;
+    padding: 8px 20px 8px 20px;
+    border-radius: 5px;
+}
